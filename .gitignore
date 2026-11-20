@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.sdf
+*.opensdf
+*ipch
+*.swp
+*.vcxproj.user
+
+# MSBuild output for every project and platform (Win32: Debug/Release, x64: x64/Debug, x64/Release)
+[Dd]ebug/
+[Rr]elease/
+x64/
+
+# Logs written by Battle and the tests
+Log.txt
+
+# Files Battle and the tests write
+/Battle/Battle/Output/
+/Tests/*/*/Output/
