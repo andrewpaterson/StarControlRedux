@@ -144,7 +144,7 @@ float32 BattleWrapDelta(float32 fDelta, float32 fSize)
 //
 //
 //////////////////////////////////////////////////////////////////////////
-static int BattleComparePoints(const void* pvLeft, const void* pvRight)
+static int __cdecl BattleComparePoints(const void* pvLeft, const void* pvRight)
 {
 	const SFloat32Vec2*	psLeft;
 	const SFloat32Vec2*	psRight;
