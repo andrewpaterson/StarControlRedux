@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{9c49e694-1cad-4567-8a23-01ef5dad5aea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Battle.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleCanvasDraw.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleGame.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleGeometry.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleMeshes.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattlePilot.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleScene.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleShipType.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleView.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Battle.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleCanvasDraw.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleGame.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleGeometry.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleMeshes.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattlePilot.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleScene.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleShipType.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleView.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
