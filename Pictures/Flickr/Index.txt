@@ -1,0 +1,127 @@
+Originals from https://www.flickr.com/photos/30553162@N04/ saved 2026-11-20.
+File name: date posted, Flickr photo id, title.  Each line: file, size in pixels, then the Flickr description.
+
+2008-09-15 2860111871 ParticleTest.png
+  800x600  Dev screenshot of an Ur-Quan Dreadnought in a flowery particle storm. I thought it was funny but I'm probably the only one.
+2008-09-18 2868130894 Planets.png
+  800x600  High detail renders of the starmap planets: the life world, dead world and mineral world respectively.
+2008-09-18 2868588712 Mmrnmhrm.png
+  800x600  Mmrnmhrm X-Form and Y-Form
+2008-09-18 2867795121 IlwrathHuman.png
+  800x600  Mockup of an Ilwrath Avenger battling a Earthling Cruiser.
+2008-09-18 2868633462 MyconShofixti.png
+  800x600
+2008-09-18 2868984920 Chunky ship test.png
+  400x300
+2008-09-21 2875992204 Oops.png
+  800x600  Got borked!
+2008-09-29 2899015155 Avatar.png
+  51x44
+2008-10-02 2906165069 More brown.png
+  800x400
+2008-10-17 2949682153 ChenjesuConvexHull.png
+  800x600
+2008-10-24 2968650283 Background.jpg
+  1000x1000
+2008-10-27 2978633573 Shofixti.png
+  640x480  The stats screen for the Shofixti Scout. Rendered ingame.
+2008-10-27 2979491692 Vux.png
+  640x480  The stats screen for the Vux Intruder. Rendered ingame.
+2008-11-16 3034764858 Star Control Title.png
+  640x400  Star Control original title.
+2008-11-28 3065697439 MockTitle.png
+  1600x1200  A cheatsie mock-up of the Star Control title screen. Rather obviously the explosions been edited in and the ship is a) the wrong one and b) not leaving a trail.
+2008-12-04 3083069492 MockTitle1.png
+  800x600  A Mycon Podship on the title screen
+2008-12-04 3082233499 MockTitle2.png
+  800x600  A Chenjesu Broodhome on the title screen
+2009-01-05 3171750440 Ilwrath.png
+  640x480  An Ilwarth Avenger uncloaking to attack.
+2009-01-17 3203708574 VuxVsHumanSmall.png
+  640x480
+2009-01-18 3206112416 Hierachy.png
+  640x480  The Ur-Quan Hierachy fleet from Star Control 1.
+2009-01-18 3206112418 Alliance.png
+  640x480  The Alliance of Free Stars fleet from Star Control 1.
+2009-02-21 3297506710 Add Property.png
+  230x151
+2009-02-21 3297506712 Brush Importer.png
+  799x600
+2009-02-21 3297506714 Brush Selector.png
+  800x600
+2009-02-21 3297506718 Cell Size.png
+  220x120
+2009-02-21 3297506722 Cliffs Imported.png
+  412x281
+2009-02-21 3297506732 Example.png
+  800x600
+2009-02-21 3297508586 Grass Cliff.png
+  101x181
+2009-02-21 3297508590 Key Bindings.png
+  246x528
+2009-02-21 3297508592 Map Editor.png
+  800x600
+2009-02-26 3311802762 Yatey Tile Editor.png
+  1024x744  Importing *all* the tiles from Hard Vacuum in one shot.
+2009-02-26 3311802770 Yatey Tile Editor.png
+  1024x744  Just some more editor use.
+2009-03-01 3318102223 nebula.png
+  500x500  A nebula for Star Control Redux
+2009-03-08 3336795489 Point Source.png
+  500x500
+2009-03-08 3336795493 Gausian 2.png
+  500x500
+2009-03-08 3336795495 Gausian 2 8.png
+  500x500
+2009-03-08 3336795499 Gausian 2 8 32.png
+  500x500
+2009-03-08 3337654658 Scaled Gausian 2 8 32.png
+  500x500
+2009-03-25 3386012608 Androsynth Guardian.png
+  640x480
+2009-03-25 3386012614 Mmrnmhrm Transformer.png
+  640x480
+2009-03-25 3386012628 Mycon Podship.png
+  640x480
+2009-03-25 3385219517 Ur-Quan Dreadnought.png
+  640x480
+2009-03-25 3385219519 Umgah Drone.png
+  640x480
+2009-03-26 3388426114 Arilou Skiff.png
+  640x480
+2009-03-27 3390970140 Chenjesu Broodhome.png
+  640x480  Pity there's no DOGI in the picture. It looks wicked.
+2009-03-27 3390970144 Earthling Cruiser.png
+  640x480  Using Reagan era weaponry?
+2009-03-27 3390970154 Spathi Discriminator.png
+  640x480  In Attack Position!
+2009-03-27 3390970454 Syreen Penetrator.png
+  640x480
+2009-03-27 3390970468 Yehat Terminator.png
+  640x480
+2009-03-28 3391141163 Ilwrath Avenger.png
+  640x480  Ilwrath Avenger uncloaking to attack.
+2009-03-28 3391141169 Vux Intruder.png
+  640x480
+2009-03-28 3392078044 Star Control Redux.png
+  640x480  Famous Battles of the Ur-Quan Conflct
+2009-03-28 3392902364 Shofixti Scout.png
+  640x480
+2009-05-15 3533382253 UrQuan.png
+  800x600
+2009-05-27 3571022130 Ur Quan Dev.png
+  1600x1200
+2009-06-27 3665036882 Star Map Complex.png
+  1280x800
+2009-08-14 3820383686 Traffic.png
+  2048x926
+2009-12-02 4151933605 DragonChristmas.png
+  72x54
+2010-06-24 4730188812 Chmmr Avatar.png
+  640x480
+2010-06-24 4730189288 Pkunk Fury.png
+  640x480
+2010-06-24 4730189708 Utwig Jugger.png
+  640x480
+2010-06-24 4730190172 Suppox Blade.png
+  640x480
