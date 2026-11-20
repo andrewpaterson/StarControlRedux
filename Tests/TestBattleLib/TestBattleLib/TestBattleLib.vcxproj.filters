@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7af0adb6-40d1-4183-a4c2-37f0697bba13}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestBattle.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TestBattleGeometry.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TestBattleInput.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TestBattleLib.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TestBattlePilot.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="TestBattleScene.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
